@@ -1,0 +1,6 @@
+.sideContainer{
+display:flex;
+}
+.pages{
+    flex:4;
+}

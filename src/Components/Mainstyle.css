@@ -1,0 +1,32 @@
+:root{
+    --white: #ffffff;
+    --second-bg:#f3f3f2;
+    --topbarcolor:#000000;
+    --txt-white:rgb(255, 255, 255);
+    --main-color:#c78814;
+    --second-color:#fde07f;
+    --box-shadow:rgba(241, 205, 4, 0.387)0px 12px 10px;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+  }
+
+  .Pagecontent{
+    position:fixed;
+    top:5;
+    z-index:1;
+  }
+  
+.menuHeading{
+  text-align: center;
+  margin-top: 15px;
+  height: 100;
+  font-size: 20px;
+  font-weight:bolder;
+  text-transform: uppercase;
+}
+
